@@ -1,4 +1,1 @@
-alioss-python3
-==============
-
-阿里云OSS的Python3 SDK，改自官方版。
+改自官方版，适用Python3。作者：yiest 网址：yiest.com
